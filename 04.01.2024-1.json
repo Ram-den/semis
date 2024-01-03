@@ -1,0 +1,25 @@
+{
+    "name": "Eduardo Pugh",
+    "age": 97,
+    "address": {
+        "street": "Aaron Light",
+        "city": "Pricechester",
+        "state": "California",
+        "zip": "70700"
+    },
+    "contact": {
+        "phone": "+1-518-377-5786",
+        "servicePhone": "800879140"
+    },
+    "birthday": "1928-07-12",
+    "ip": "174.166.84.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Word hair should store here charge matter traditional. Generation anyone east it. Trouble anything week tonight wide decade.\nImportant fill general.",
+        "bio": "Open increase tonight kid explain realize. Town trip politics reduce sport deep.\nActivity art degree according. Rise population guess scene beyond cover. Decision plant use."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
