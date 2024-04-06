@@ -1,0 +1,25 @@
+{
+    "name": "Karen Escobar",
+    "age": 7,
+    "address": {
+        "street": "Martin Mountains",
+        "city": "New Jillberg",
+        "state": "Rhode Island",
+        "zip": "59400"
+    },
+    "contact": {
+        "phone": "+1-405-866-8521x661",
+        "servicePhone": "800255751"
+    },
+    "birthday": "2018-10-09",
+    "ip": "122.65.232.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Thing hit drug second. Team son chance early course benefit. Bad seat rich way often morning affect.",
+        "bio": "Water these food positive a protect wind billion. Win feeling doctor heart. Similar future money. Respond kind chance party floor writer accept.\nPresent too trade camera art bring answer senior."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
