@@ -1,0 +1,25 @@
+{
+    "name": "Kathryn Garcia",
+    "age": 53,
+    "address": {
+        "street": "Bobby Drives",
+        "city": "Tylermouth",
+        "state": "Wisconsin",
+        "zip": "40956"
+    },
+    "contact": {
+        "phone": "+1-719-397-2118x11383",
+        "servicePhone": "800724836"
+    },
+    "birthday": "1972-10-01",
+    "ip": "14.144.158.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Interest of under face eat tough. Address guess despite health boy. Moment blood already take adult property say ok.",
+        "bio": "Soldier performance business force reality rather oil firm. With smile tree available forget land. Guy significant run certain friend.\nSimply try end wide dog."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
