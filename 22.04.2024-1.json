@@ -1,0 +1,25 @@
+{
+    "name": "Frank Gonzales",
+    "age": 104,
+    "address": {
+        "street": "Crystal Lake",
+        "city": "Danieltown",
+        "state": "Alaska",
+        "zip": "83540"
+    },
+    "contact": {
+        "phone": "001-234-831-3636x983",
+        "servicePhone": "800431871"
+    },
+    "birthday": "1921-12-01",
+    "ip": "34.10.93.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Explain up air wrong positive. Exist bank cut per carry Democrat.",
+        "bio": "Claim give fall. Drop follow education despite.\nSeven either have within style alone north short. Hot two free up person less physical. Letter collection suffer opportunity."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
