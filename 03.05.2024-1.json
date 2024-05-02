@@ -1,0 +1,25 @@
+{
+    "name": "Michael Watson",
+    "age": 85,
+    "address": {
+        "street": "Evan Vista",
+        "city": "West Amychester",
+        "state": "New York",
+        "zip": "74438"
+    },
+    "contact": {
+        "phone": "(281)756-8302x55053",
+        "servicePhone": "800930447"
+    },
+    "birthday": "1940-07-09",
+    "ip": "213.185.215.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Draw model couple piece southern. Around until must voice nothing.\nBehavior collection teacher first. Appear anything alone act major.",
+        "bio": "Heavy all degree at night.\nContinue necessary their method. Leave I meet occur.\nGroup who page drive why nothing memory. True unit write low man federal thank. Available third reduce responsibility."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
