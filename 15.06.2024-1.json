@@ -1,0 +1,25 @@
+{
+    "name": "Madison Watkins",
+    "age": 18,
+    "address": {
+        "street": "Hernandez Pass",
+        "city": "Port Tiffany",
+        "state": "Wyoming",
+        "zip": "17965"
+    },
+    "contact": {
+        "phone": "+1-511-360-0037x3571",
+        "servicePhone": "800858536"
+    },
+    "birthday": "2007-17-07",
+    "ip": "13.82.3.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Southern blood table begin cover. Short at sure good quite plant.\nThreat contain serious fact hotel remain forward. For large sport least west.",
+        "bio": "Toward within I together blood bit.\nSpring with above statement make plant day guess.\nWithin her key think score town cultural. History red rise kind wonder you."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
