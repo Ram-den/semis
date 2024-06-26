@@ -1,0 +1,25 @@
+{
+    "name": "Carmen Butler",
+    "age": 1,
+    "address": {
+        "street": "Francis Crescent",
+        "city": "Stephaniemouth",
+        "state": "Indiana",
+        "zip": "92559"
+    },
+    "contact": {
+        "phone": "225-421-6429x79569",
+        "servicePhone": "800902782"
+    },
+    "birthday": "2024-02-10",
+    "ip": "38.57.230.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Capital heavy nor book. Method author positive little fine common brother. Offer people keep expect half total.",
+        "bio": "Every call idea animal red.\nAllow modern even bank. Science ever might say around behind another material. Benefit truth particularly thousand more."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
