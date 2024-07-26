@@ -1,0 +1,25 @@
+{
+    "name": "Sherry Green",
+    "age": 110,
+    "address": {
+        "street": "Kimberly Hills",
+        "city": "Port Sherylshire",
+        "state": "Tennessee",
+        "zip": "76622"
+    },
+    "contact": {
+        "phone": "+1-461-889-8784x13173",
+        "servicePhone": "800124172"
+    },
+    "birthday": "1915-15-04",
+    "ip": "15.176.32.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Letter for interview mind direction. From back actually defense property international measure only. Us piece character life. These nothing girl dog.",
+        "bio": "Candidate huge some bar. Approach about attorney network thus.\nSystem moment performance it allow a worker language. Property size ever question."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
