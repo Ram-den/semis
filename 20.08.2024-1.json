@@ -1,0 +1,25 @@
+{
+    "name": "Scott Espinoza",
+    "age": 59,
+    "address": {
+        "street": "Hodges Junctions",
+        "city": "South Claireburgh",
+        "state": "Massachusetts",
+        "zip": "20197"
+    },
+    "contact": {
+        "phone": "001-529-799-1879x939",
+        "servicePhone": "800609535"
+    },
+    "birthday": "1966-27-05",
+    "ip": "142.246.123.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Central get relate term inside four actually. Actually carry partner wind official. Keep feel dark hear art common.",
+        "bio": "Modern well raise billion look scientist. Growth us gas scientist think.\nScore piece determine. Miss firm whole common."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
