@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Black",
+    "age": 28,
+    "address": {
+        "street": "Bailey Highway",
+        "city": "North Denisehaven",
+        "state": "Connecticut",
+        "zip": "10241"
+    },
+    "contact": {
+        "phone": "5397594136",
+        "servicePhone": "800668967"
+    },
+    "birthday": "1997-23-01",
+    "ip": "123.170.185.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Make note hit we training. Both evidence federal evening just record loss. Customer still eight same participant fine democratic.",
+        "bio": "Provide condition field mean and street dream song. Grow see Mrs anything be.\nSection have others organization situation specific place. Clear him bag similar Democrat little eight."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
