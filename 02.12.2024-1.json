@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Wong",
+    "age": 108,
+    "address": {
+        "street": "Rodriguez Crossing",
+        "city": "Lake Matthew",
+        "state": "Pennsylvania",
+        "zip": "44090"
+    },
+    "contact": {
+        "phone": "001-485-426-1456x32183",
+        "servicePhone": "800445964"
+    },
+    "birthday": "1917-18-06",
+    "ip": "129.48.6.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Song relate store social after. Sure we owner.\nImprove check whatever article special. Federal during southern seat. Possible you section alone.",
+        "bio": "Various war remember subject remember. Matter picture southern old medical glass thank. Over part movement population enjoy."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
