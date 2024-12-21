@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Anderson",
+    "age": 53,
+    "address": {
+        "street": "Brown Shoals",
+        "city": "Coffeyport",
+        "state": "Colorado",
+        "zip": "40346"
+    },
+    "contact": {
+        "phone": "689-993-3346x21816",
+        "servicePhone": "800353148"
+    },
+    "birthday": "1972-21-01",
+    "ip": "84.246.99.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Want like inside begin good. Some well question interview.\nGuess total all often. Base carry close plan. True majority black Mrs role prove at.",
+        "bio": "Man clearly step seat.\nSeat increase coach week room wrong. Read effect race know. Trouble mention police live allow argue look wonder. Focus area meeting capital sign."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
