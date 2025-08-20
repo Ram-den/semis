@@ -1,0 +1,25 @@
+{
+    "name": "Amy Richardson",
+    "age": 113,
+    "address": {
+        "street": "Mcneil Flat",
+        "city": "Linchester",
+        "state": "Ohio",
+        "zip": "59991"
+    },
+    "contact": {
+        "phone": "+1-351-595-6128x0948",
+        "servicePhone": "800232309"
+    },
+    "birthday": "1912-28-02",
+    "ip": "90.124.61.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Single situation house box security treatment sign. Suffer team million thus bring meet.\nSpend response lot popular significant able. Thus western program wind sing door. Growth talk citizen reason.",
+        "bio": "Agency possible she effect bag next recent. Green anyone ask order standard. Within performance whole on road.\nEspecially father less everyone with center. Act five choose bar."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
