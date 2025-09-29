@@ -1,0 +1,25 @@
+{
+    "name": "Megan Wright",
+    "age": 101,
+    "address": {
+        "street": "Paul Canyon",
+        "city": "Kylefurt",
+        "state": "Utah",
+        "zip": "70649"
+    },
+    "contact": {
+        "phone": "200.749.9869x367",
+        "servicePhone": "800836743"
+    },
+    "birthday": "1924-20-12",
+    "ip": "114.164.92.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Across already foot road. Center major conference pass government door. Though until once stay nation when.",
+        "bio": "Herself education safe five party your. South teacher just last police since into. Decide region performance short note turn white. Seek grow forward recognize."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
