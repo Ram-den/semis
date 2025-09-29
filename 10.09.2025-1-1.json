@@ -1,0 +1,25 @@
+{
+    "name": "Christine Smith",
+    "age": 102,
+    "address": {
+        "street": "Gonzalez Spurs",
+        "city": "Port Nicholas",
+        "state": "New Jersey",
+        "zip": "42418"
+    },
+    "contact": {
+        "phone": "444.880.8427x72307",
+        "servicePhone": "800213161"
+    },
+    "birthday": "1923-08-02",
+    "ip": "156.75.117.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Physical team job mouth. Pull clear none.\nManagement nice thank dark add same. Develop difficult physical image lead study whom behavior. Say style state president.",
+        "bio": "Section return mind appear they poor. Board defense candidate what she help expert.\nParticipant writer pull professor scientist fall sea. Although support participant money where sing."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
