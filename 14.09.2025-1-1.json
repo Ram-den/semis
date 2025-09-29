@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Frey",
+    "age": 4,
+    "address": {
+        "street": "Martin Burg",
+        "city": "Jamesburgh",
+        "state": "Wisconsin",
+        "zip": "26996"
+    },
+    "contact": {
+        "phone": "+1-934-827-6346x34383",
+        "servicePhone": "800500322"
+    },
+    "birthday": "2021-30-07",
+    "ip": "10.55.181.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Last relationship know spend act serious. Hour we democratic election.\nBeat knowledge ahead so form employee case. American check black form. Learn station or world through surface.",
+        "bio": "Past page leg there success develop knowledge. Middle simply protect field high nature very. Course region become think expert peace.\nContain goal hear check collection art special."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}

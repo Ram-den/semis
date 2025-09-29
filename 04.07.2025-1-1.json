@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Wilson",
+    "age": 106,
+    "address": {
+        "street": "Samuel Villages",
+        "city": "Port Ashleyhaven",
+        "state": "Kansas",
+        "zip": "59884"
+    },
+    "contact": {
+        "phone": "544.314.3857",
+        "servicePhone": "800619586"
+    },
+    "birthday": "1919-18-01",
+    "ip": "82.223.255.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Sit want cover economic. Idea music talk politics film.\nFinancial college rock this next trade. Sign sea season where school including our. Several foot it guy one whom that.",
+        "bio": "If those will level very tax enter. State feeling relationship building.\nPretty hot always black truth dinner economy. Cultural experience late drug material. Exist heavy stop education blue star."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
