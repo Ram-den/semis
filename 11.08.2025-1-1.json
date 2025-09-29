@@ -1,0 +1,25 @@
+{
+    "name": "Alfred Harrison",
+    "age": 48,
+    "address": {
+        "street": "Johnson Falls",
+        "city": "Lake Emily",
+        "state": "California",
+        "zip": "39529"
+    },
+    "contact": {
+        "phone": "480-317-2428x7612",
+        "servicePhone": "800243037"
+    },
+    "birthday": "1977-18-07",
+    "ip": "143.1.69.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Finish person me good close degree. Much place new push gas.\nBig agent fight now describe yes word. Recent chance that drive child require you age. Sign goal four many seven mean.",
+        "bio": "Large soldier very. Mother foot trial couple later focus leave.\nShould civil continue. Information tree white visit smile. Lawyer throughout until relationship husband eat wide."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
