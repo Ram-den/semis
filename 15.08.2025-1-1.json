@@ -1,0 +1,25 @@
+{
+    "name": "Henry Villegas",
+    "age": 45,
+    "address": {
+        "street": "Dana Cliff",
+        "city": "Moorebury",
+        "state": "Wyoming",
+        "zip": "88883"
+    },
+    "contact": {
+        "phone": "+1-620-753-2580x94373",
+        "servicePhone": "800769594"
+    },
+    "birthday": "1980-25-07",
+    "ip": "48.186.46.221",
+    "foo": "bar",
+    "profile": {
+        "about": "By usually as technology area eat local. Community already any spend base cause.\nBorn minute someone size. She lay reveal career require phone avoid art.",
+        "bio": "Not maintain hand strong page forget wear see. Fight billion better soldier.\nJoin institution produce prevent different family. Official yes purpose drop Democrat. Major population sell."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}

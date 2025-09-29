@@ -1,0 +1,25 @@
+{
+    "name": "Amber Wong",
+    "age": 89,
+    "address": {
+        "street": "Gina Haven",
+        "city": "South Samantha",
+        "state": "Georgia",
+        "zip": "73956"
+    },
+    "contact": {
+        "phone": "(346)849-9478x44360",
+        "servicePhone": "800032353"
+    },
+    "birthday": "1936-25-12",
+    "ip": "53.54.60.48",
+    "foo": "bar",
+    "profile": {
+        "about": "New hot page take drive scientist. Pull meeting our describe. Speech itself bad Republican.\nThose like general. Listen sing movement.\nStand service position pretty nation.",
+        "bio": "Soon school end strategy work any step. Full country happen must avoid."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}

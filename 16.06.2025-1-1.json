@@ -1,0 +1,25 @@
+{
+    "name": "Mark Wright",
+    "age": 46,
+    "address": {
+        "street": "Hall Wall",
+        "city": "West Deborah",
+        "state": "South Carolina",
+        "zip": "36603"
+    },
+    "contact": {
+        "phone": "001-293-434-2553x19442",
+        "servicePhone": "800928009"
+    },
+    "birthday": "1979-01-01",
+    "ip": "110.183.224.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Base onto feeling. Safe society black price skill represent record.",
+        "bio": "Major compare enjoy. Return relate officer like condition remain live move. Wear quality each.\nEmployee hour me news indeed attention point. Better one likely concern democratic resource city."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
