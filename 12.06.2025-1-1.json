@@ -1,0 +1,25 @@
+{
+    "name": "Edward Porter",
+    "age": 65,
+    "address": {
+        "street": "Riley Lodge",
+        "city": "Adamborough",
+        "state": "New Mexico",
+        "zip": "60372"
+    },
+    "contact": {
+        "phone": "986-352-1974",
+        "servicePhone": "800943154"
+    },
+    "birthday": "1960-31-05",
+    "ip": "8.86.109.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Management clear reach word eight road policy. Before middle thought any audience network wish expect. Baby campaign network until century.",
+        "bio": "Bill low range suffer until also. Only send mouth call board food. That art hand expert. Than PM various a voice realize unit."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
