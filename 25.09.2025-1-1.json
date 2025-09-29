@@ -1,0 +1,25 @@
+{
+    "name": "Christy Bender",
+    "age": 81,
+    "address": {
+        "street": "Carr Lakes",
+        "city": "Lake Andrew",
+        "state": "Pennsylvania",
+        "zip": "07500"
+    },
+    "contact": {
+        "phone": "001-966-754-0740x6654",
+        "servicePhone": "800272341"
+    },
+    "birthday": "1944-01-09",
+    "ip": "9.52.52.61",
+    "foo": "bar",
+    "profile": {
+        "about": "State investment opportunity develop she. Improve life argue thing. Place hotel happen country big enjoy. Fall my author listen or final.",
+        "bio": "Main book toward tree site. Grow much hotel read soon section Republican. Offer class likely finish technology.\nOccur most buy natural movie approach kitchen. Help understand fish while."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
