@@ -1,0 +1,25 @@
+{
+    "name": "Bonnie Ferguson",
+    "age": 68,
+    "address": {
+        "street": "Julie Stream",
+        "city": "Frenchbury",
+        "state": "Mississippi",
+        "zip": "82674"
+    },
+    "contact": {
+        "phone": "001-938-473-8899x675",
+        "servicePhone": "800472422"
+    },
+    "birthday": "1957-24-10",
+    "ip": "137.241.179.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Never material trip finish bring. Dream decade until event the. Actually guess data cost brother board.",
+        "bio": "Degree term think Republican bit manage rate. Ability director because security. Choice example shoulder bad institution.\nPhysical record campaign tell dog against pretty. Treatment boy act guy."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}

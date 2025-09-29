@@ -1,0 +1,25 @@
+{
+    "name": "Laura Mcpherson",
+    "age": 105,
+    "address": {
+        "street": "Katrina Well",
+        "city": "East Crystalfurt",
+        "state": "Utah",
+        "zip": "70973"
+    },
+    "contact": {
+        "phone": "(563)947-5467x14952",
+        "servicePhone": "800741665"
+    },
+    "birthday": "1920-26-10",
+    "ip": "169.107.190.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Learn cup well. Middle begin team.\nRegion wear happen trip pass.\nSomebody especially all road east too. You wall course head we hit health another.",
+        "bio": "Upon music itself employee middle. Public single traditional decade another ten.\nLater suddenly huge mean break. Congress remain itself know look forward."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}

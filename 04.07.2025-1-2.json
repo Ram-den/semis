@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Stewart",
+    "age": 71,
+    "address": {
+        "street": "Pearson Way",
+        "city": "New Carmen",
+        "state": "Illinois",
+        "zip": "70378"
+    },
+    "contact": {
+        "phone": "001-894-560-8585x047",
+        "servicePhone": "800154723"
+    },
+    "birthday": "1954-15-08",
+    "ip": "142.35.203.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Produce note pull attention or trip. Simple cost bring foreign road if build design. Relationship environmental off daughter game idea forget. Under red herself significant none win she.",
+        "bio": "Radio wide store here without idea. Anything care hot truth blood will. City avoid heart blue walk. Opportunity news medical first."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}

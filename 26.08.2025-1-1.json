@@ -1,0 +1,25 @@
+{
+    "name": "Terrence Horn",
+    "age": 70,
+    "address": {
+        "street": "Elizabeth Underpass",
+        "city": "Andersonview",
+        "state": "New Jersey",
+        "zip": "12364"
+    },
+    "contact": {
+        "phone": "568-947-4884",
+        "servicePhone": "800069620"
+    },
+    "birthday": "1955-10-02",
+    "ip": "7.109.26.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Case for condition whose. Chair serious last cell financial majority.\nQuality cold suddenly last. Fear beat machine draw.",
+        "bio": "Soldier let international majority decide accept. Information sometimes respond boy score art then. Range treatment nor let positive card knowledge season."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}

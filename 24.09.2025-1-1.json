@@ -1,0 +1,25 @@
+{
+    "name": "Alyssa Warren",
+    "age": 39,
+    "address": {
+        "street": "Larson Divide",
+        "city": "Port Mariaberg",
+        "state": "Connecticut",
+        "zip": "05592"
+    },
+    "contact": {
+        "phone": "706.682.1577x05814",
+        "servicePhone": "800162842"
+    },
+    "birthday": "1986-18-12",
+    "ip": "175.76.125.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Account main off PM investment. Our spend direction drug step wall. Arrive quickly image drop.\nBecause themselves suffer skill. Dark forward tell best pull yard shake avoid.",
+        "bio": "Grow bar manage herself Democrat. Cup between school between indicate pretty. Player arm hundred color from."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
